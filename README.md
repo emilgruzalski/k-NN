@@ -24,9 +24,7 @@ k-NN is the open-source k-nearest neighbors algorithm visualization tool with in
 
 ## Demo
 
-<div align="center">
-  <img alt="k-NN Welcome PNG" src=".github/images/k-NN-welcome.png">
-</div>
+![k-NN Welcome IMG](.github/images/k-NN-welcome.png)
 
 ## Tech Stack
 
