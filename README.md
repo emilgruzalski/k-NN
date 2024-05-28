@@ -24,7 +24,9 @@ k-NN is the open-source k-nearest neighbors algorithm visualization tool with in
 
 ## Demo
 
-![k-NN Welcome PNG](.github/images/k-NN-welcome.png)
+<div align="center">
+  <img alt="k-NN Welcome PNG" src=".github/images/k-NN-welcome.png">
+</div>
 
 ## Tech Stack
 
@@ -72,4 +74,15 @@ pip install -r requirements.txt
 ```shell
 cd app
 python main.py
+```
+
+## Tests
+
+To run tests, follow these steps:
+
+### 1. Run the test
+
+```shell
+cd tests
+pytest test.py
 ```
